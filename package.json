@@ -1,0 +1,14 @@
+{
+  "name": "Node-electron-protect-eyes",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Krzysztof-G/Node-electron-protect-eyes.git",
+  "author": "Krzysztof Gumuła <k.gumula@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ./app/index.html"
+  },
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
